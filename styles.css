@@ -1,0 +1,95 @@
+body {
+      background-image:url("http://www.realclear.com/assets/photos/219344_5_.gif");  
+     }    
+
+h1 {
+   font-family: 'Pacifico', cursive;
+    }
+    
+    
+h2  {
+    font-family: 'Pacifico', cursive;
+    }
+    
+h3  {
+    font-family: 'Pacifico', cursive;
+    }
+    
+    
+h4  {
+    font-family: 'Notable', sans-serif;
+    }
+    
+
+h5 {
+    font-family: 'Notable', sans-serif;
+    }
+    
+    
+ol {
+    font-family: 'Notable', sans-serif;
+    }
+     
+    
+ul {
+    font-family: 'Pacifico', cursive;
+    }
+    
+
+h6  {
+    font-family: 'Notable', sans-serif;
+    }
+
+        
+ div {  
+     margin-left: auto; 
+       margin-right: auto; 
+       height: auto;
+       width: 950px;
+       border-style: outset;
+       border-color: black;
+     }  
+        
+
+#container {
+              width: 960px;
+              height: 2800px;
+              border: solid thick black;
+              margin-left: auto; 
+              margin-right: auto; 
+              background-color: #99D3DF;
+            }
+            
+            
+.Title  {            
+        border: double 20px lightblue;  
+        background-color: #88BBD6;    
+        padding: 1px;   
+        height: 80px;
+        width: 900px;
+        }   
+                                            
+            
+.heading {
+         border: double 10px lightblue;
+         background-color: #88BBD6;
+         height: 60px;
+         width: 900px;
+         } 
+            
+            
+#Niagarafalls  
+      {
+       border: double 10px lightblue; 
+       height: 40px;
+       width: 920px;
+       padding: 10px;
+       background-color: #88BBD6;
+        }
+
+iframe
+     {
+      width: 800px; 
+      height: 500px;
+     }
+
